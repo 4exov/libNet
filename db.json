@@ -1,0 +1,50 @@
+[
+    {
+      "Name": "Don Quixote",
+      "Author": "Miguel de Cervantes",
+      "Category": "Novel",
+      "Language": "Spainish",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-0393972810"
+    },
+    {
+      "Name": "A Tale of Two Cities",
+      "Author": "Charles Dickens",
+      "Category": "Historical novel",
+      "Language": "English",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-0393972811"
+    },
+    {
+      "Name": "The Lord of the Rings",
+      "Author": "J.R.R. Tolkien",
+      "Category": "High Fantasy Adventure",
+      "Language": "English",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-0393972812"
+    },
+    {
+      "Name": "The Little Prince ",
+      "Author": "Antoine de Saint-Exupery",
+      "Category": "Triller",
+      "Language": "French",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-1853261589"
+    },
+    {
+      "Name": "And Then There Were None",
+      "Author": "Agatha Christie",
+      "Category": "Mystery crime",
+      "Language": "English",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-0393972814"
+    },
+    {
+      "Name": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Category": "High Fantasy Adventure",
+      "Language": "English",
+      "PublicDate": "2021-04-08T00:00:00+03:00",
+      "Isbn": "978-0393972815"
+    }
+  ]
