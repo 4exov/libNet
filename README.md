@@ -1,4 +1,4 @@
-# libNet
+# libNet first c# experience 
 # Create a console application to manage  book library using .NET5.
 Requirements:
 ● Command to add a new book. All the book data should be stored in a JSON file.
